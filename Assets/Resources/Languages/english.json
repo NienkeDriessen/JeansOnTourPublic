@@ -1,0 +1,84 @@
+{
+  "entries": [
+    {
+      "key": "welcome_message",
+      "value": "Design sustainable jeans"
+    },
+    {
+      "key": "quiz_1_question",
+      "value": "In Dutch, jeans are called 'spijkerbroek'. This translates to 'nail pants'. Where does the name come from?"
+    },
+    {
+      "key": "quiz_1_a",
+      "value": "They were popular with carpenters"
+    },
+    {
+      "key": "quiz_1_b",
+      "value": "The pants are as strong as a nail!"
+    },
+    {
+      "key": "quiz_1_c",
+      "value": "There used to be real nails in the pants!"
+    },
+    {
+      "key": "quiz_1_d",
+      "value": "The pants are made of denim (spijkerstof/ nail fabric)!"
+    },
+    {
+      "key": "quiz_2_question",
+      "value": "What are jeans made of?"
+    },
+    {
+      "key": "quiz_2_a",
+      "value": "Woven fabric made of cotton"
+    },
+    {
+      "key": "quiz_2_b",
+      "value": "Recycled plastic"
+    },
+    {
+      "key": "quiz_2_c",
+      "value": "Sheep wool"
+    },
+    {
+      "key": "quiz_2_d",
+      "value": "Flattened nails"
+    },
+    {
+      "key": "quiz_3_question",
+      "value": "How much water is needed for fabricating one pair of jeans?"
+    },
+    {
+      "key": "quiz_3_a",
+      "value": "8000 liters"
+    },
+    {
+      "key": "quiz_3_b",
+      "value": "A small swimming pool full"
+    },
+    {
+      "key": "quiz_3_c",
+      "value": "A water barrel as big as an elephant!"
+    },
+    {
+      "key": "quiz_3_d",
+      "value": "A bus full of water"
+    },
+    {
+      "key": "puzzel_uitleg",
+      "value": "Place all pattern pieces on the fabric"
+    },
+    {
+      "key": "puzzel_cut",
+      "value": "Cut"
+    },
+    {
+      "key": "puzzel_again",
+      "value": "Again!"
+    },
+    {
+      "key": "puzzel_bespaard",
+      "value": "Fabric saved"
+    }
+  ]
+}

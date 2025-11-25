@@ -1,0 +1,84 @@
+{
+  "entries": [
+    {
+      "key": "welcome_message",
+      "value": "Ontwerp een duurzame spijkerbroek"
+    },
+    {
+      "key": "quiz_1_question",
+      "value": "Waar komt de naam 'spijkerbroek' vandaan?"
+    },
+    {
+      "key": "quiz_1_a",
+      "value": "Ze waren populair bij timmermannen"
+    },
+    {
+      "key": "quiz_1_b",
+      "value": "De broek is zo sterk als een spijker!"
+    },
+    {
+      "key": "quiz_1_c",
+      "value": "Vroeger zaten er echt spijkers in de broek!"
+    },
+    {
+      "key": "quiz_1_d",
+      "value": "De broek is gemaakt van spijkerstof!"
+    },
+    {
+      "key": "quiz_2_question",
+      "value": "Waar worden spijkerbroeken van gemaakt?"
+    },
+    {
+      "key": "quiz_2_a",
+      "value": "Geweven stof van katoen"
+    },
+    {
+      "key": "quiz_2_b",
+      "value": "Gerecycled plastic"
+    },
+    {
+      "key": "quiz_2_c",
+      "value": "Schapenwol"
+    },
+    {
+      "key": "quiz_2_d",
+      "value": "Plat geslagen spijkers"
+    },
+    {
+      "key": "quiz_3_question",
+      "value": "Hoeveel water is er nodig voor één spijkerbroek?"
+    },
+    {
+      "key": "quiz_3_a",
+      "value": "8000 Liter"
+    },
+    {
+      "key": "quiz_3_b",
+      "value": "Een klein zwembad vol"
+    },
+    {
+      "key": "quiz_3_c",
+      "value": "Een waterton zo groot als een olifant!"
+    },
+    {
+      "key": "quiz_3_d",
+      "value": "Een bus vol met water"
+    },
+    {
+      "key": "puzzel_uitleg",
+      "value": "Leg alle patroonstukken op de stof"
+    },
+    {
+      "key": "puzzel_cut",
+      "value": "Knippen"
+    },
+    {
+      "key": "puzzel_again",
+      "value": "Opnieuw!"
+    },
+    {
+      "key": "puzzel_bespaard",
+      "value": "Stof bespaard"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 64b3146b77a2b6c4682d9e415440d798
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - quizManager: {fileID: 8319844891663076090, guid: 221d7a9df40e6984db5ea3917bdce0cd, type: 3}
+  - buttonA: {fileID: 7193111200147545225, guid: 9a276c3468d638f4a8d63dcea89b9f02, type: 3}
+  - buttonB: {fileID: 5829293020966798129, guid: 6582a509459e7934c982b428f229d71b, type: 3}
+  - buttonC: {fileID: 3937425062121322812, guid: 540ec432f1929e443881ab0ed97e3d96, type: 3}
+  - buttonD: {fileID: 3735593290279442454, guid: 542ca946fd6624048bca4d186597a2b4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
