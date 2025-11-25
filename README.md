@@ -48,9 +48,4 @@ File --> Build Settings -> Build
 ## 3. How to put new version on the table
 If you want to update the table, you need to build the game to a USB and put that file on the PC. Then press the Windows logo + R -> Open ‘shell:startup’ and put a shortcut to the app there. And delete the old one.
 
-![This is an alt text.](/image/sample.webp "This is a sample image.")
-
-## Links
-
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 
