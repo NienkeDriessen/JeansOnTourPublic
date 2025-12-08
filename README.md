@@ -24,6 +24,8 @@ The necessary scripts for this can be found in the tab __scripts__/SlideShow
 
 The __Quiz Manager__  is added to each quiz slide. In the inspector, you can edit the question, the possible answers, and the index of the correct answer {0,1,2,3}.
 
+The __Language Manager__ handles the language in which each text box is set. it exists here: Assets/Scripts/LanguageManager.cs. For now we only use English and Dutch. Each language has its respective JSON file containing the translations for each text. The JSONS are located at Assets/Resources/Languages. If you want to add a language, create another JSON and make sure each key has a translation. Then change ToggleLanguage() to rotate between all 3 (or however many you want, if it you want a lot, maybe do a dropdown). If you want to add text, add another key, and make sure each JSON file has its own translation.
+
 In the __Puzzle Scene__, all pattern pieces (with the tag JeansPart) must be placed within the bounds of the JeansFabric. The CanvasGroup.alpha of the cut button (CutOut -> Cut) is then set to 1 and becomes visible. No JeansParts may collide with each other. When cutting, the JeansParts are coloured grey and the (high) score is calculated. The following scripts have been written for this purpose:
 
 BoundingBox.cs
